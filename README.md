@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/visionary73">Business Professional</a>, <a href="https://www.linkedin.com/in/jeremy_serrurier-ab18135a/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/visionary73">Business Professional</a> and an <a href="https://www.linkedin.com/in/jeremy_serrurier-ab18135a/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
